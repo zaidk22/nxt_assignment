@@ -2,10 +2,10 @@
 
 A complete Flutter app for browsing articles with offline support using Hive database.
 
-<img src="https://github.com/user-attachments/assets/7a627917-66e6-430d-93f4-451f136b7688" width="300" />
-<img src="https://github.com/user-attachments/assets/8aca5046-4fd6-4c2d-abee-60dc63abf80b" width="300" />
-<img src="https://github.com/user-attachments/assets/7f962c98-28be-4146-b8e1-851364d39500" width="300" />
-<img src="https://github.com/user-attachments/assets/8e2c6f73-c716-4973-8ddf-6ba6ae01e3e0" width="300" />
+<img src="https://github.com/user-attachments/assets/7a627917-66e6-430d-93f4-451f136b7688" width="150" />
+<img src="https://github.com/user-attachments/assets/8aca5046-4fd6-4c2d-abee-60dc63abf80b" width="150" />
+<img src="https://github.com/user-attachments/assets/7f962c98-28be-4146-b8e1-851364d39500" width="150" />
+<img src="https://github.com/user-attachments/assets/8e2c6f73-c716-4973-8ddf-6ba6ae01e3e0" width="150" />
 
 
 ## ✨ Features
